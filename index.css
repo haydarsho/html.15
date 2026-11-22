@@ -482,6 +482,74 @@ git push -u origin main
 
 
 
+.d25{
+    margin:100px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+
+.d26{
+    width: 300px;
+}
+
+
+.d27{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.img15{
+    width: 35px;
+    height: 45px;
+}
+
+
+.h16{
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+
+.p10{
+    color: #666666;
+    font-size: 19px;
+    line-height: 25px;
+    margin-top: 25px;
+}
+
+
+.d28{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+
+.img16{
+    width: 20px;
+    height: 20px;
+}
+
+.h17{
+    font-size: 28px;
+    font-weight: 500;
+    color: #222222;
+}
+
+
+.p11{
+    color: #222222;
+    font-size: 19px;
+}
+
+
 
 
 
