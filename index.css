@@ -105,8 +105,39 @@
 }
 
 
+/* 
+git add .
+git commit -m ""
+git push -u origin main 
+*/
 
 
+.d7{
+    display: flex; 
+    margin: 70px;
+}
+
+.d8{
+    display: flex;
+     flex-direction: column;
+     gap: 18px;
+     margin-left: 20px;
+     margin-top: 20px;
+}
+
+.img4{
+    width: 1300px;
+    height: 841px;
+}
+
+.img5{
+    width: 420px;
+    
+}
+
+.img6{
+    width: 420px;
+}
 
 
 
