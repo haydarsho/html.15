@@ -136,11 +136,7 @@
 }
 
 
-/* 
-git add .
-git commit -m ""
-git push -u origin main 
-*/
+
 
 
 
@@ -213,9 +209,61 @@ git push -u origin main
 
 
 
+/* 
+git add .
+git commit -m ""
+git push -u origin main 
+*/
 
 
+.d12{
+    margin: 70px;
+    display: flex;
+    gap: 100px;
+}
 
+
+.img9{
+    width: 870px;
+}
+
+.h8{
+font-size: 60px;
+}
+
+.p4{
+    color: #555555;
+    font-size: 23px;
+}
+
+.p5{
+    color: #222222;
+    font-size: 18px;
+}
+
+.h9{
+    font-weight: bold;
+    font-size: 38px;
+}
+
+.d14{
+    display: flex;
+    justify-content: space-between;
+}
+
+.b2{
+    background-color: #3771C8;
+    color: white;
+    border-radius: 10px; 
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 26px;
+    font-weight: 400;
+    border: 1px solid #3771C8;
+    margin-top: 60px;
+}
 
 
 
